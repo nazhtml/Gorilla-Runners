@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gorilla Runners</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Arial', sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: #f0f0f0; /* Background color */
+            color: #333; /* Text color */
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+
+        #cat-link {
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h1>Gorilla Runners</h1>
+    <a id="cat-link" href="https://discord.gg/gorillarunners" target="_blank">
+        <img src="C:\Users\pluh\Downloads\bcc19c41d738cb541258cf8c5e415bbe.jpg" alt="Cute Cat">
+    </a>
+</body>
+</html>
